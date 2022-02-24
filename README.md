@@ -27,8 +27,9 @@
   <img align="center" alt="vhjs"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="right" width="200em" style="border-radius:50px" src="https://c.tenor.com/xqVLGvBsBagAAAAC/yeah-wink.gif"/>
 </div>
-  
+ 
 ##
   
 ### 🎧 Music
