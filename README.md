@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/vvictorfonseca">
-  <img height="180em"  width = "420em" src="https://github-readme-stats.vercel.app/api?username=vvictorfonseca&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width = "420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvictorfonseca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"  width = "440em" src="https://github-readme-stats.vercel.app/api?username=vvictorfonseca&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width = "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvictorfonseca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
