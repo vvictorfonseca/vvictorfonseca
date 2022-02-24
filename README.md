@@ -45,6 +45,10 @@
 Listen to NAVE MÃE on <a href = "https://open.spotify.com/artist/3C8DoOi5SypwXYUNQ6YnK8?si=Z6U0wI4fS--A-r5QNINkQg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vvictorfonseca1)
+  
+##
+  
+![Snake animation](https://github.com/vvictorfonseca/vvictorfonseca/blob/output/github-contribution-grid-snake.svg)
 
   
 
