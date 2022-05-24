@@ -8,7 +8,7 @@
 
 ##
 
-### 📊 That´s my GitHub  stats!
+### 📊 That´s my GitHub stats!
 
 <div align="center">
   <a href="https://github.com/vvictorfonseca">
