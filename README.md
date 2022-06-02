@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying to become a full-stack developer.
 - 🎓 Graduate in International Relations!
 - 🎶 I'm a music producer too! Check my songs on spotify! => NAVE MÃE 🛸
-- 🌱 I’m currently learning PostgreSQL.
+- 🔥 I’m currently learning PostgreSQL.
 - 🇧🇷 Brazilian
 
 ##
