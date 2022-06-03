@@ -27,7 +27,7 @@
   <img align="center" alt="vhjs"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img align="center" alt="vhfigma" height="40" width="50" src="https://icongr.am/devicon/react-original-wordmark.svg?size=57&color=currentColor" />
+  <img align="center" alt="vhfigma" height="35" width="45" src="https://icongr.am/devicon/react-original-wordmark.svg?size=57&color=currentColor" />
   <img align="center" alt="vhfigma" height="50" width="55" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" />
   <img align="right" alt="vhfigma" width="310em" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 </div>
