@@ -28,8 +28,8 @@
   <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="vhfigma" height="35" width="45" src="https://icongr.am/devicon/react-original-wordmark.svg?size=57&color=currentColor" />
   <img align="center" alt="vhfigma" height="50" width="55" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" />
-  <img align="center" alt="vhfigma" height="45" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" />
-  <img align="center" alt="vhfigma" height="45" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="vhfigma" height="35" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" />
+  <img align="center" alt="vhfigma" height="35" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
   <img align="right" alt="vhfigma" width="350" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 </div>
  
