@@ -53,8 +53,7 @@ Listen to NAVE MÃE on <a href = "https://open.spotify.com/artist/3C8DoOi5SypwXY
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vvictorfonseca1)
   
 ##
-  
-![Snake animation](https://github.com/vvictorfonseca/vvictorfonseca/blob/output/github-contribution-grid-snake.svg)
+
 
   
 
