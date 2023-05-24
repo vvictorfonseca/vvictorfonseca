@@ -4,7 +4,7 @@
 - 🌱 I’m a full-stack developer.
 - 🎓 Graduate in International Relations!
 - 🎶 I'm a music producer too! Check my songs on spotify! => NAVE MÃE 🛸
-- 🔥 I’m currently learning Java!
+- 🔥 I’m currently learning type-graphql!
 - 🇧🇷 Brazilian
 
 ##
