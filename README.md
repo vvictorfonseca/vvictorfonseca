@@ -1,11 +1,10 @@
 ### Hi there, I'm Victor 👋
 
 
-- 🌱 I’m a full-stack developer.
+- 🌱 Fullstack developer at Redefrete.
+- 🔥 I'm currently working with TypeScript, Next and Express.
 - 🎓 Graduate in International Relations!
 - 🎶 I'm a music producer too! Check my songs on spotify! => NAVE MÃE 🛸
-- 🔥 I’m currently learning type-graphql!
-- 🇧🇷 Brazilian
 
 ##
 
