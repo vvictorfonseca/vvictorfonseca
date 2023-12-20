@@ -2,7 +2,7 @@
 
 
 - 🌱 Fullstack developer at Redefrete.
-- 🔥 I'm currently working with TypeScript, Next and Express.
+- 🔥 I'm currently working with TypeScript, Next.js and Express.js
 - 🎓 Graduate in International Relations!
 - 🎶 I'm a music producer too! Check my songs on spotify! => NAVE MÃE 🛸
 
