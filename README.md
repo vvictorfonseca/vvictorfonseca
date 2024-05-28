@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor 👋
 
 
-- 🌱 Fullstack developer at Redefrete.
+- 🌱 Fullstack developer at Gero360.
 - 🔥 I'm currently working with Angular and Express.js
 - 🎓 Graduate in International Relations!
 - 🎶 I'm a music producer too! Check my songs on spotify! => NAVE MÃE 🛸
