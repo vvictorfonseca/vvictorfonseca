@@ -2,7 +2,7 @@
 
 
 - 🌱 Fullstack developer at Gero360, an eldery healthcare startup.
-- 🔥 I'm currently working with Angular, React Native and Node.js
+- 🔥 I'm currently working with Typescript, Angular, React Native and Node.js
 
 ##
 
